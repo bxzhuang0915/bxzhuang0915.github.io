@@ -9,13 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can view or download my CV here:
+My current CV is available as a PDF.
 
-[Open CV]({{ base_path }}/files/BX_CV.pdf){: .btn .btn--primary}
-
-<object data="{{ base_path }}/files/BX_CV.pdf" type="application/pdf" width="100%" height="900">
-  <p>
-    Your browser cannot display the PDF inline.
-    <a href="{{ base_path }}/files/BX_CV.pdf">Open the CV</a>.
-  </p>
-</object>
+<p>
+  <a class="btn btn--primary" href="{{ base_path }}/files/BX_CV.pdf">Open CV</a>
+  <a class="btn" href="{{ base_path }}/files/BX_CV.pdf" download>Download CV</a>
+</p>
