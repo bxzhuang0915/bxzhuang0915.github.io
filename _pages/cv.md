@@ -10,7 +10,7 @@ redirect_from:
 Bing-Xue Zhuang
 ======
 
-Ph.D. Student  
+Ph.D. Candidate  
 Department of Atmospheric and Oceanic Sciences, McGill University, QC, Canada  
 Environment Canada and Climate Change, QC, Canada  
 Email: w3862246@gmail.com; bing-xue.zhuang@mail.mcgill.ca; Bing-Xue.Zhuang@ec.gc.ca
